@@ -1,3 +1,3 @@
-# Chomroche
+# Kumarajiva
 
 Machine translation system
